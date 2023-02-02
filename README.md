@@ -1,14 +1,6 @@
-# Test scraping python
+# Test python
 ## Before starting
  * Fork the project in your Gitlab namespace
- * **Caution! very important:** Change project visibility: 
-   * Click on `Settings` bottom left, when you see your project 
-   * Select `General`
-   * Click on expend `Visibility, project features, permissions` 
-   * Change project visibility from public to private
-## After pushing your codes
- * Add it@dataimpact.fr as **reporter** in `members`
- * Answer the email with your project link in it 
  
 # Test
 Some really important tips:
